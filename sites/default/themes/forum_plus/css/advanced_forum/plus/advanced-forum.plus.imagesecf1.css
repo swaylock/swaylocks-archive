@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
 /* FORUM LIST ICONS *********************************************************/
 td.forum-list-icon,
 td.forum-list-icon-new-posts {
@@ -244,9 +244,9 @@ a.author-pane-link:hover {
 a.af-button-large:active,
 a.af-button-small:active,
 a.author-pane-link:active {
-  background: #2587C4;
+  background: #2587c4;
   color: #333;
-  border-top-color: #EFEFEF;
+  border-top-color: #efefef;
 }
 
 .af-button-large span {

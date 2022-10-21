@@ -4,7 +4,7 @@ CSS
 @import url(../vendor/fonts/fontawesome/css/font-awesome.min.css);
 @import url(../vendor/fonts/armata/stylesheet.css);
 @import url(../vendor/fonts/rajdhani/stylesheet.css);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700); /*------------------------------------------------------------------*/
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700); /*------------------------------------------------------------------*/
 /* Typography */
 body {
   background: #f6f6f6;
