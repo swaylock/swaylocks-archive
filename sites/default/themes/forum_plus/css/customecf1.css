@@ -1,0 +1,63 @@
+.three-column .view-content {
+    margin-left: -7px;
+    margin-right: -7px;
+    overflow: hidden;
+}
+
+.three-column .views-row {
+    float: left;
+}
+
+.forum-blog-view .views-row {
+    font-family: "Georgia";
+    font-size: 16px;
+}
+
+/*.node .content {
+    font-family: "Georgia";
+    font-size: 120%;
+}*/
+
+/*.node .field {
+    margin-bottom: 10px;
+}
+
+.node .form-wrapper {
+    margin-bottom: 10px;
+}
+
+.forum-post-panel-main .forum-post-content, .forum-post-panel-main .author-signature {
+    font-family: "Georgia";
+    font-size: 120%;
+}
+
+.forum-post-panel-main .forum-post-title {
+	font-family: "rajdhanisemibold";
+}
+
+/*.forum-blog-view .views-row .views-field-title a {
+	font-family: "Georgia";
+	font-size: 22px;
+}*/
+
+/*.forum-table td .forum-description {
+	font-family: "Georgia";
+    font-size: 16px;
+}
+.forum-table td .forum-name {
+	margin-bottom: 7px;
+}
+
+.forum-table-topics td.views-field-title {
+	font-family: "Georgia";
+	font-size: 16px;
+}
+
+.forum-table-topics td.views-field-title .forum-topic-title, .forum-table-topics td.views-field-title .topic-pager {
+	font-family: "rajdhanimedium";
+}
+
+.forum-table-topics td.views-field-title a span {
+	display: inline-block;
+	
+}*/
