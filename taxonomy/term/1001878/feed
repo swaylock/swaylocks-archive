@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://swaylocks.local"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Swaylocks - Tom Morey</title>
+ <link>http://swaylocks.local/people-shapers/tom-morey</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tom Morey Swizzle Stick</title>
+ <link>http://swaylocks.local/archive/110099/tom-morey-swizzle-stick</link>
+ <description>&lt;div class=&quot;field field-name-field-archive-category field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/archive/category/8ft-to-8ft-11in&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;8ft to 8ft 11in&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-shaper field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Shaper:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/people-shapers/tom-morey&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Tom Morey&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-model-name field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Model Name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/model-name/swizzle-stick&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Swizzle Stick&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-archive-location field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;San Diego&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-detailed-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Just picked up locally…. Kinda unique &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div  id=&quot;flexslider-1&quot; class=&quot;flexslider&quot;&gt;
+  &lt;ul class=&quot;slides&quot;&gt;&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/DCDDDCA3-4E64-424D-AFD3-AF2A3CA8426E.jpeg&quot; width=&quot;1125&quot; height=&quot;1800&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;span property=&quot;dc:title&quot; content=&quot;Tom Morey Swizzle Stick&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Tue, 24 May 2022 18:31:08 +0000</pubDate>
+ <dc:creator>DaFamilyMan</dc:creator>
+ <guid isPermaLink="false">110099 at http://swaylocks.local</guid>
+ <comments>http://swaylocks.local/archive/110099/tom-morey-swizzle-stick#comments</comments>
+</item>
+</channel>
+</rss>

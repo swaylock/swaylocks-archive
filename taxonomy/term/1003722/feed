@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://swaylocks.local"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Swaylocks - jimmy keith</title>
+ <link>http://swaylocks.local/people-shapers/jimmy-keith</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bat tailed Whiskey Fish</title>
+ <link>http://swaylocks.local/archive/109779/bat-tailed-whiskey-fish</link>
+ <description>&lt;div class=&quot;field field-name-field-archive-category field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/archive/category/7ft-to-7ft-11in&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;7ft to 7ft 11in&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Year Built:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/year-built/2021&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;2021&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-dimensions field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Dimensions:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;7&amp;#039;0&amp;quot; x 22&amp;quot; x 3.5&amp;quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-shaper field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Shaper:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/people-shapers/jimmy-keith&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;jimmy keith&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-manufacturer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Manufacturer:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/manufacturer/jimmy-keith-surfboards&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jimmy Keith Surfboards&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-model-name field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Model Name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/model-name/whiskey-fish&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Whiskey Fish&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-detailed-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2.0 lb stringerless EPS by Marko foam
+4 oz Innegra and 6 oz E glass&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div  id=&quot;flexslider-1&quot; class=&quot;flexslider&quot;&gt;
+  &lt;ul class=&quot;slides&quot;&gt;&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/IMG_20210525_134537_621.jpg&quot; width=&quot;1440&quot; height=&quot;1800&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/IMG_20210525_134537_705.jpg&quot; width=&quot;1440&quot; height=&quot;1800&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;span property=&quot;dc:title&quot; content=&quot;Bat tailed Whiskey Fish&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Mon, 23 Aug 2021 08:26:01 +0000</pubDate>
+ <dc:creator>Capt_Phoenix</dc:creator>
+ <guid isPermaLink="false">109779 at http://swaylocks.local</guid>
+ <comments>http://swaylocks.local/archive/109779/bat-tailed-whiskey-fish#comments</comments>
+</item>
+</channel>
+</rss>

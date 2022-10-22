@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://swaylocks.local"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Swaylocks - Bjorn Westen</title>
+ <link>http://swaylocks.local/people-shapers/bjorn-westen</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>catfish 5`8</title>
+ <link>http://swaylocks.local/archive/108825/catfish-58</link>
+ <description>&lt;div class=&quot;field field-name-field-archive-category field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/archive/category/5ft-to-5ft-11in&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;5ft to 5ft 11in&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Year Built:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/year-built/2019&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;2019&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-dimensions field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Dimensions:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;5´8 20 1/4  2  3/4&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-shaper field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Shaper:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/people-shapers/bjorn-westen&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bjorn Westen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-model-name field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Model Name:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/model-name/catfich&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;catfich&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-archive-location field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Alkmaar The Netherlands&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div  id=&quot;flexslider-1&quot; class=&quot;flexslider&quot;&gt;
+  &lt;ul class=&quot;slides&quot;&gt;&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/_DSC4179_0.JPG&quot; width=&quot;1498&quot; height=&quot;1000&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/dslr0839_0.JPG&quot; width=&quot;667&quot; height=&quot;1000&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/artworkCATFISH002_0.jpg&quot; width=&quot;700&quot; height=&quot;714&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://swaylocks7stage.s3.us-east-2.amazonaws.com/s3fs-public/boards/dslr0837_0.JPG&quot; width=&quot;667&quot; height=&quot;1000&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;span property=&quot;dc:title&quot; content=&quot;catfish 5`8&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Sat, 21 Mar 2020 08:40:23 +0000</pubDate>
+ <dc:creator>bjorn</dc:creator>
+ <guid isPermaLink="false">108825 at http://swaylocks.local</guid>
+ <comments>http://swaylocks.local/archive/108825/catfish-58#comments</comments>
+</item>
+</channel>
+</rss>
